@@ -12,13 +12,6 @@ Upload any document, ask questions in natural language, and get cited answers th
 
 ---
 
-## Live Demo
-
-> **[https://documind.vercel.app](https://documind.vercel.app)**  
-> Backend: **[https://documind-backend.up.railway.app](https://documind-backend.up.railway.app)**
-
----
-
 ## Features
 
 - **Hybrid search** — BM25 keyword matching combined with semantic vector search, merged via Reciprocal Rank Fusion
